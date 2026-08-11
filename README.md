@@ -157,7 +157,7 @@ GET /api/locations/:locationId/events
 
 Here's a walkthrough of implemented required features:
 
-https://drive.google.com/file/d/13qPngtUpKTO-JSPOBQZdWfzYQk3nPpJn/view?usp=sharing 
+![Virtual Community Space Walkthrough](client/src/assets/Virtual%20Community%20New.gif)
 
 
 ---
