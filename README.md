@@ -26,7 +26,13 @@ The application uses a React frontend, an Express.js backend, PostgreSQL databas
 Time spent: **8 hours**
 
 ---
+## Video Walkthrough
 
+Here's a walkthrough of implemented required features:
+
+![Virtual Community Space Walkthrough](client/src/assets/Virtual%20Community%20New.gif)
+
+---
 ## Required Features
 
 The following **required** functionality is completed:
